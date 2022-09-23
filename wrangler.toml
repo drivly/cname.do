@@ -1,5 +1,5 @@
-name = "wrangler-do"
-route = { pattern = "*/*", zone_name = "wrangler.do" }
+name = "cname-do"
+route = { pattern = "*/*", zone_name = "cname.do" }
 main = "worker.js"
 compatibility_date = "2022-08-25"
 
