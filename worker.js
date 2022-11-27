@@ -1,6 +1,6 @@
 export const api = {
   icon: '巛',
-  name: 'cname.do',
+  name: 'CNAME.do',
   description: 'Dynamic CNAME Service',
   url: 'https://cname.do/api',
   type: 'https://apis.do/domains',
